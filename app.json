@@ -27,6 +27,11 @@
      "value": "chat.whatsapp.com,fb.com,instagram.com",
      "required" :false
     },
+    "FAKE_COUNTRY_CODE":{
+      "description": "Put number for antifake",
+     "value": "remove",
+     "required" :false
+    },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
      "value": "remove",
